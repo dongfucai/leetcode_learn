@@ -10,7 +10,11 @@
 
 using namespace std;
 
-
+/**
+ *  1 先反转
+ *  2 空格的再反转
+ *  3 去空格
+ */
 
 class Solution {
 public:
